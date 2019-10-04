@@ -1,0 +1,39 @@
+
+
+
+
+#posisi{
+	margin:0 auto;
+	width:700px;
+	padding-left:100px;
+	padding-right:100px;
+	
+}
+
+header {background-color: #7b0c0c; font-family: verdana, arial black;}
+header h1{color: #d4d0d0; padding: 20px; padding-bottom: 15px;}
+header p {color: #d4d0d0; padding: 20px; padding-top: 0px}
+
+menu{background-color: #3d3d3b; height: 50px;}
+menu ul {list-style: none; line-height: 50px}
+menu ul li {float: left; width: 20%; text-align: center;}
+menu ul li a { color: black; text-decoration: none; font-family: verdana; display: block;}
+menu ul li a:hover {background-color: blue; color: black;}
+			
+article {background-color: #d4d0d0}			
+article h2 {font-family: verdana; font-style: italic; padding: 20px;}
+article img {float: lighter; width: 150px; margin: 0px 20px 0px 20px;}
+article p {padding-bottom: 30px; font-size: 20px; text-align: justify; padding-left: 20px; padding-right: 20px;}
+
+footer {background-color: #680a0a;}
+footer p {text-align: center; color: #d4d0d0; padding: 20px; font-size: 15px;}
+
+
+
+
+
+
+
+
+
+
